@@ -1,0 +1,19 @@
+Name:           fdo-desktop-entry
+Version:        1.0.1
+Cabal-Version:  >= 1.2
+Build-Type:     Simple
+License:        BSD3
+License-File:   LICENSE
+Copyright:      (c) 2009 Geoffrey Reedy
+Author:         Geoffrey Reedy
+Maintainer:     geoff@programmer-monk.net
+Stability:      provisional
+Synopsis:       Implementation of the freedesktop.org Desktop Entry Specification (1.0)
+Category:       System
+
+Library
+  Exposed-Modules:      System.Freedesktop.DesktopEntry
+  Build-Depends:
+    base >= 3,
+    containers >= 0.2.0.0,
+    mtl >= 1.1.0.2

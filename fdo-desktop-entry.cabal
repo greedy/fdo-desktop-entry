@@ -15,5 +15,6 @@ Library
   Exposed-Modules:      System.Freedesktop.DesktopEntry
   Build-Depends:
     base >= 3,
-    containers >= 0.2.0.0,
-    mtl >= 1.1.0.2
+    containers >= 0.1.0.0,
+    mtl >= 1.0,
+    parsec >= 2.0

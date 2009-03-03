@@ -12,7 +12,8 @@ Synopsis:       Implementation of the freedesktop.org Desktop Entry Specificatio
 Category:       System
 
 Library
-  Exposed-Modules:      System.Freedesktop.DesktopEntry
+  Exposed-Modules:      System.Freedesktop.DesktopEntry,
+                        System.Freedesktop.DesktopEntry.Standard
   Build-Depends:
     base >= 3,
     containers >= 0.1.0.0,

@@ -8,7 +8,7 @@ Copyright:      (c) 2009 Geoffrey Reedy
 Author:         Geoffrey Reedy
 Maintainer:     geoff@programmer-monk.net
 Stability:      provisional
-Synopsis:       Implementation of the freedesktop.org Desktop Entry Specification (1.0)
+Synopsis:       Implementation of the freedesktop.org Desktop Entry Specification (1.1)
 Category:       System
 
 Library
